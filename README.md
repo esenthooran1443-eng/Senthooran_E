@@ -22,6 +22,7 @@ I am continuously learning and expanding my knowledge in **Data Engineering, Clo
 * Data Cleaning & Transformation
 * APIs & Data Extraction
 * Git & GitHub
+* AWS
 
 ---
 
